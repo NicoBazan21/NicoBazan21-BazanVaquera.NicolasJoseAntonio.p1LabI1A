@@ -1,0 +1,124 @@
+# depslib dependency file v1.0
+1635343691 source:c:\users\bazan\desktop\este se usa\examenlab1\bicicleta.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"bicicleta.h"
+	"color.h"
+	"fecha.h"
+	"miBiblioteca.h"
+	"servicio.h"
+	"tipo.h"
+	"trabajo.h"
+	"cliente.h"
+
+1635345126 c:\users\bazan\desktop\este se usa\examenlab1\bicicleta.h
+
+1635344767 c:\users\bazan\desktop\este se usa\examenlab1\color.h
+	"bicicleta.h"
+	"tipo.h"
+	"cliente.h"
+
+1635344767 c:\users\bazan\desktop\este se usa\examenlab1\tipo.h
+
+1635344767 c:\users\bazan\desktop\este se usa\examenlab1\cliente.h
+
+1635334370 c:\users\bazan\desktop\este se usa\examenlab1\fecha.h
+
+1635344767 c:\users\bazan\desktop\este se usa\examenlab1\mibiblioteca.h
+
+1635344767 c:\users\bazan\desktop\este se usa\examenlab1\servicio.h
+
+1635344767 c:\users\bazan\desktop\este se usa\examenlab1\trabajo.h
+	"bicicleta.h"
+	"servicio.h"
+	"fecha.h"
+
+1635334373 source:c:\users\bazan\desktop\este se usa\examenlab1\cliente.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"bicicleta.h"
+	"color.h"
+	"fecha.h"
+	"miBiblioteca.h"
+	"servicio.h"
+	"tipo.h"
+	"trabajo.h"
+	"cliente.h"
+
+1635336593 source:c:\users\bazan\desktop\este se usa\examenlab1\color.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"bicicleta.h"
+	"color.h"
+	"fecha.h"
+	"miBiblioteca.h"
+	"servicio.h"
+	"tipo.h"
+	"trabajo.h"
+	"cliente.h"
+
+1635333914 source:c:\users\bazan\desktop\este se usa\examenlab1\fecha.c
+
+1635344173 source:c:\users\bazan\desktop\este se usa\examenlab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bicicleta.h"
+	"color.h"
+	"miBiblioteca.h"
+	"servicio.h"
+	"tipo.h"
+	"trabajo.h"
+	"cliente.h"
+	"fecha.h"
+
+1635343939 source:c:\users\bazan\desktop\este se usa\examenlab1\mibiblioteca.c
+	"bicicleta.h"
+	"color.h"
+	"fecha.h"
+	"miBiblioteca.h"
+	"servicio.h"
+	"tipo.h"
+	"trabajo.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1635334382 source:c:\users\bazan\desktop\este se usa\examenlab1\servicio.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"bicicleta.h"
+	"color.h"
+	"fecha.h"
+	"miBiblioteca.h"
+	"servicio.h"
+	"tipo.h"
+	"trabajo.h"
+
+1635334385 source:c:\users\bazan\desktop\este se usa\examenlab1\tipo.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"bicicleta.h"
+	"color.h"
+	"fecha.h"
+	"miBiblioteca.h"
+	"servicio.h"
+	"tipo.h"
+	"trabajo.h"
+
+1635342698 source:c:\users\bazan\desktop\este se usa\examenlab1\trabajo.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"bicicleta.h"
+	"color.h"
+	"fecha.h"
+	"miBiblioteca.h"
+	"servicio.h"
+	"tipo.h"
+	"trabajo.h"
+
